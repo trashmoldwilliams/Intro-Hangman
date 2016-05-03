@@ -1,35 +1,29 @@
-#Address Book
+# Hangman
 
-###By: Daren 
+#### By Will Johnson
 
-##Description
+## Description
 
-Ping Pong is an application for testing or demonstrating basic proficiency in Javascript, jQuery, git, Markdown, HTML, Bootstrap, CSS, and Behavior Driven Development. A user can enter a number, and the application returns a range of numbers from 1 to the number entered with the following exceptions:
+One of the more complex Intro to Programming applications, the assignment was meant to practice to use of objects, but it is decently light on objects due to lack of understanding them at the time. It is still good practice in a more complicated program, with lots of front end and back end logic.
 
-- Numbers divisible by 3 are replaced with the word "ping"
-- Numbers divisible by 5 are replaced with the word "pong"
-- Numbers divisible by 15 are replaced with the word "ping pong"
+## Setup/Installation Requirements
 
-##Installation
+* Clone project
+* Open Index.html
 
-Install ping-pong locally by cloning this repository:
+## Known Bugs
 
-https://github.com/pokojt/ping-pong.git
+The game does not reset properly with the built in reset.
 
-Or, you can run the application [here](http://pokojt.github.io/ping-pong).
+## Technologies Used
 
-##Technologies Used
+* Javascript/JQuery
 
-- HTML
-- CSS with Bootstrap
-- Markdown
-- Javascript
-- jQuery
-- Git, gitHub, gitHub Pages
-- BDD
+## Contact
+_You can contact me at trashmoldwilliams@gmail.com_
 
-##Copyright (c)
+### License
 
- Copyright 2016 Taylor Pokoj.
+*This software is licensed under the MIT license.*
 
- This software is licensed under the MIT license.
+Copyright (c) 2016 Will Johnson &
